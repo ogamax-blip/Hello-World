@@ -1,2 +1,4 @@
 # Hello-World
-i going to learn html
+i am going to learn html
+my names are Sebastian Lugome
+from Mbeya, Tanzania
